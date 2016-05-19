@@ -1,0 +1,6 @@
+com.google.gct
+com.google.gct.testing
+com.gooogle.services
+com.android.tools.analytics
+com.android.tools.idea.updater
+JRebelAndroidPlugin
